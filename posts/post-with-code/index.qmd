@@ -1,0 +1,9 @@
+---
+title: "Analysis of Cameroon DHS data for 2018"
+author: "Jobert Richie Nansseu"
+date: "2024-07-27"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This analysis shows the prevalence and associated factors of HIV among women living in Cameroon, based on its latest (2018) Demographic and Health Survey data. This report can be found [here](https://jobertrichie.github.io/Capstone-project/){target="_blanck"}

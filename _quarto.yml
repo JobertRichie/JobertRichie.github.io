@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Jobert Richie Nansseu"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "Curriculum Vitae"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/JobertRichie
+      - icon: researchgate
+        href: https://www.researchgate.net/profile/Jobert-Nansseu
+      - icon: PubMed
+        href: https://pubmed.ncbi.nlm.nih.gov/?term=nansseu+JR&sort=date
+format:
+  html:
+    theme: darkly
+    css: styles.css
+
+editor: visual
+
